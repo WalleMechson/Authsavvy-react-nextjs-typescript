@@ -12,7 +12,7 @@ import { sendVerificationEmail } from "@/lib/mail";
 export const settings = async (values: z.infer<typeof SettingsSchema>) => {
   const user = await currentUser();
 
-  if (!user) {
+  if (!user || !user.id) {
     return { error: "Unauthorized" };
   }
 
@@ -44,7 +44,12 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
     };
   }
 
-  if (values.password && values.newPassword  && values.confirmNewPassword && dbUser.password) {
+  if (
+    values.password &&
+    values.newPassword &&
+    values.confirmNewPassword &&
+    dbUser.password
+  ) {
     const passwordMatch = await bcrypt.compare(
       values.password,
       dbUser.password
@@ -67,7 +72,7 @@ export const settings = async (values: z.infer<typeof SettingsSchema>) => {
     data: {
       ...values,
     },
-  });   
+  });
 
   return { success: "Settings Updated" };
 };
