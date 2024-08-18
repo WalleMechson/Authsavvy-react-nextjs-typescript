@@ -123,10 +123,10 @@ NEXT_PUBLIC_APP_URL=""
 
 ## :camera: Screenshots
 | --- | --- |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/2faCodePage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/adminActionsPermissionsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/clientSideActionsPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/editSettingsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/loginPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/passwordRecoveryPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/registrationPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/serverSideActionsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/2faCodePage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/adminActionsPermissionsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/clientSideActionsPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/editSettingsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/loginPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/passwordRecoveryPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/registrationPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/serverSideActionsPage.PNG"></kbd> |
 <br/>
 
 <br/>
