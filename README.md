@@ -1,8 +1,6 @@
 <div align="center">
   <br/>
-  <br/>
-            <h1 style="font-size: 70px;">🔐</h1>
-  <br/>
+            <h1 style="font-size: 70px;">🔐 AuthSavvy</h1>
   <br/>
   <p>
     Authsavvy is a project centered around Auth.js (Previously known as NextAuth). it consists from everything that you might want to get from Auth.js
@@ -125,10 +123,10 @@ NEXT_PUBLIC_APP_URL=""
 
 ## :camera: Screenshots
 | --- | --- |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/2faCodePage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/adminActionsPermissionsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/clientSideActionsPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/editSettingsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/loginPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/passwordRecoveryPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/registrationPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/Realtime-Supabase-React-Dashboard/blob/main/assets/serverSideActionsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/2faCodePage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/adminActionsPermissionsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/clientSideActionsPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/editSettingsPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/loginPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/passwordRecoveryPage.PNG"></kbd> |
+| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/registrationPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/assets/serverSideActionsPage.PNG"></kbd> |
 <br/>
 
 <br/>
