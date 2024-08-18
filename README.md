@@ -122,12 +122,26 @@ NEXT_PUBLIC_APP_URL=""
 <br/>
 
 ## :camera: Screenshots
-| --- | --- |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/2faCodePage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/adminActionsPermissionsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/clientSideActionsPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/editSettingsPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/loginPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/passwordRecoveryPage.PNG"></kbd> |
-| <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/registrationPage.PNG"></kbd> | <kbd><img width="890" alt="login" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/serverSideActionsPage.PNG"></kbd> |
-<br/>
+
+<table>
+  <tr>
+    <td><img width="400" alt="2FA Code Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/2faCodePage.PNG"></td>
+    <td><img width="400" alt="Admin Actions Permissions Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/adminActionsPermissionsPage.PNG"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Client Side Actions Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/clientSideActionsPage.PNG"></td>
+    <td><img width="400" alt="Edit Settings Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/editSettingsPage.PNG"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Login Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/loginPage.PNG"></td>
+    <td><img width="400" alt="Password Recovery Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/passwordRecoveryPage.PNG"></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Registration Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/registrationPage.PNG"></td>
+    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/GeriFixit/auth-savvy/blob/main/public/serverSideActionsPage.PNG"></td>
+  </tr>
+</table>
+
 
 <br/>
 
