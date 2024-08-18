@@ -1,0 +1,115 @@
+AUTHNEXT
+ ┣ actions
+ ┃  ┣ admin.ts
+ ┃  ┣ login.ts
+ ┃  ┣ new-password.ts
+ ┃  ┣ new-verification.ts
+ ┃  ┣ register.ts
+ ┃  ┣ reset.ts
+ ┃  ┗ settings.ts
+ ┣ app
+ ┃  ┣ (protected)
+ ┃  ┃  ┣ _components
+ ┃  ┃  ┃  ┗ navbar.tsx
+ ┃  ┃  ┣ admin
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ client
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ server
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ settings
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┗ layout.tsx
+ ┃  ┣ api
+ ┃  ┃  ┣ admin
+ ┃  ┃  ┃  ┗ route.ts
+ ┃  ┃  ┗ auth
+ ┃  ┃     ┗ [...nextAuth]
+ ┃  ┃        ┗ route.ts
+ ┃  ┣ auth
+ ┃  ┃  ┣ error
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ login
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ new-password
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ new-verification
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ register
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┣ reset
+ ┃  ┃  ┃  ┗ page.tsx
+ ┃  ┃  ┗ layout.tsx
+ ┃  ┣ favicon.ico
+ ┃  ┣ globals.css
+ ┃  ┣ layout.tsx
+ ┃  ┗ page.tsx
+ ┣ components
+ ┃  ┣ auth
+ ┃  ┃  ┣ back-button.tsx
+ ┃  ┃  ┣ card-wrapper.tsx
+ ┃  ┃  ┣ error-card.tsx
+ ┃  ┃  ┣ header.tsx
+ ┃  ┃  ┣ login-button.tsx
+ ┃  ┃  ┣ login-form.tsx
+ ┃  ┃  ┣ logout-button.tsx
+ ┃  ┃  ┣ new-password-form.tsx
+ ┃  ┃  ┣ new-verification-form.tsx
+ ┃  ┃  ┣ register-form.tsx
+ ┃  ┃  ┣ reset-form.tsx
+ ┃  ┃  ┣ role-gate.tsx
+ ┃  ┃  ┣ social.tsx
+ ┃  ┃  ┗ user-button.tsx
+ ┃  ┣ ui
+ ┃  ┃  ┣ avatar.tsx
+ ┃  ┃  ┣ badge.tsx
+ ┃  ┃  ┣ button.tsx
+ ┃  ┃  ┣ card.tsx
+ ┃  ┃  ┣ dropdown-menu.tsx
+ ┃  ┃  ┣ form.tsx
+ ┃  ┃  ┣ input-otp.tsx
+ ┃  ┃  ┣ input.tsx
+ ┃  ┃  ┣ label.tsx
+ ┃  ┃  ┗ sonner.tsx
+ ┃  ┣ form-error.tsx
+ ┃  ┣ form-success.tsx
+ ┃  ┗ user-info.tsx
+ ┣ data
+ ┃  ┣ password-reset-token.ts
+ ┃  ┣ tokens.ts
+ ┃  ┣ two-factor-confirmation.ts
+ ┃  ┣ two-factor-token.ts
+ ┃  ┣ user.ts
+ ┃  ┗ verification-token.ts
+ ┣ hooks
+ ┃  ┣ use-current-role.ts
+ ┃  ┗ use-current-user.ts
+ ┣ lib
+ ┃  ┣ auth.ts
+ ┃  ┣ db.ts
+ ┃  ┣ mail.ts
+ ┃  ┗ utils.ts
+ ┣ prisma
+ ┃  ┗ schema.prisma
+ ┣ public
+ ┃  ┣ next.svg
+ ┃  ┗ vercel.svg
+ ┣ schemas
+ ┃  ┗ index.ts
+ ┣ .env
+ ┣ .eslintrc.json
+ ┣ .gitignore
+ ┣ auth.config.ts
+ ┣ auth.ts
+ ┣ components.json
+ ┣ middleware.ts
+ ┣ next-auth.d.ts
+ ┣ next-env.d.ts
+ ┣ next.config.mjs
+ ┣ package-lock.json
+ ┣ package.json
+ ┣ postcss.config.mjs
+ ┣ README.md
+ ┣ routes.ts
+ ┣ tailwind.config.ts
+ ┗ tsconfig.json
