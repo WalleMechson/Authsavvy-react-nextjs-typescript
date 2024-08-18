@@ -1,8 +1,7 @@
 <div align="center">
   <br/>
   <br/>
-  <img src="public/logo-dark.png#gh-dark-mode-only" alt="logo dark mode" width="200" height="auto" />
-  <img src="public/logo-light.png#gh-light-mode-only" alt="logo light mode" width="200" height="auto" />
+            <h1 style="font-size: 70px;">🔐</h1>
   <br/>
   <br/>
   <p>
