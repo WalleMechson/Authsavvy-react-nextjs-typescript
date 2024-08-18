@@ -30,7 +30,10 @@ export const {
   callbacks: {
     async signIn({ user, account }) {
       if (account?.provider !== "credentials") return true;
-      const existingUser = await getUserById(user.id);
+      let existingUser;
+      if(user.id){
+        existingUser = await getUserById(user.id);
+      }
       if (!existingUser || !existingUser.emailVerified) return false;
       if (existingUser.isTwoFactorEnabled) {
         const twoFactorConfirmation = await getTwoFactorConfirmationByUserId(
@@ -50,7 +53,9 @@ export const {
       if (session.user)
         session.user.isTwoFactorEnabled = token.isTwoFactorEnabled as boolean;
       if (session.user) session.user.name = token.name;
-      session.user.email = token.email;
+      if (typeof token.email === 'string' && session.user) {
+        session.user.email = token.email;
+      }
       session.user.isOAuth = token.isOAuth as boolean;
 
       return session;
