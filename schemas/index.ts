@@ -1,4 +1,3 @@
-import { newPassword } from "@/actions/new-password";
 import { UserRole } from "@prisma/client";
 import * as z from "zod";
 
